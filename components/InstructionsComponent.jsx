@@ -11,8 +11,12 @@ export default function InstructionsComponent() {
 				<p>
 					
 					
-					{" "}
-					<span></span>
+					<img
+				src="https://i.imgur.com/GWOcvMl.png"
+				width={"350px"}
+				height={"350px"}
+				/>
+					
 					
 					
 				</p>
