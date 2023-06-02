@@ -15,8 +15,8 @@ export default function InstructionsComponent() {
 				width={"350px"}
 				height={"350px"}
 				/>
-					{" "}
-					<span></span>
+					
+					
 					
 					
 				</p>
@@ -67,10 +67,10 @@ export default function InstructionsComponent() {
 				<div className={styles.icons_container}>
 					<div>
 						<a
-							href=""
+							href="https://discord.gg/NCs6NgZF2K"
 							target={"_blank"}
 						>
-							
+							Discord
 						</a>
 					</div>
 					<div>
