@@ -9,14 +9,14 @@ export default function InstructionsComponent() {
 					Tarnish<span>Token</span>
 				</h1>
 				<p>
-					
-					
-					<img
+				
+				<img
 				src="https://i.imgur.com/GWOcvMl.png"
 				width={"350px"}
 				height={"350px"}
 				/>
-					
+					{" "}
+					<span></span>
 					
 					
 				</p>
@@ -55,7 +55,22 @@ export default function InstructionsComponent() {
 					</div>
 				</a>
 			</div>
-			
+			<div className={styles.footer}>
+				<a href="" target={"_blank"}>
+					<img
+						id="badge-button"
+						style={{ width: "0px", height: "0px" }}
+						src=""
+						alt=""
+					/>
+				</a>
+				<div className={styles.icons_container}>
+					<div>
+						<a
+							href=""
+							target={"_blank"}
+						>
+							
 						</a>
 					</div>
 					<div>
